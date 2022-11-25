@@ -1,0 +1,57 @@
+*
+{
+    padding:0px;
+    margin:0px;
+}
+.header_container
+{
+    background-color: black;
+}
+.logo_change
+{
+    width:150px;
+    height:75px;
+}
+.back_color
+{
+    background-color: #faeae9;
+    border-radius: 20px;
+}
+.back_color1
+{
+    background-color:#f7f6d7;
+    border-radius: 20px;
+
+}
+
+.back_color2
+{
+    background-color: #eeeef9;
+    border-radius: 20px;
+}
+.back_color3
+{
+    background-color: #fdf4ea;
+    border-radius: 20px;
+}
+.back_color4
+{
+    background-color: #e6f3e0;
+    border-radius: 20px;
+}
+.back_color_container_email
+{
+    background-color: #eeeef9;
+    
+}
+.input_adjust
+{
+    width:350px;
+    border:1px solid violet;
+    text-align: center;
+}
+.image_adjust
+{
+    width:150px;
+    height:75px;
+}
